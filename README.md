@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Electronics Engineer with a passion for science and DIY projects.
+I am an Electronics Engineer with a passion for science and DIY projects.
 
 
 # 💻 Tech Stack:
